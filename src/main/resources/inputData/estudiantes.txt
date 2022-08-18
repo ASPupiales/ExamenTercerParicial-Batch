@@ -1,0 +1,11 @@
+cedula,nombres,apellidos,nivel
+1723640172,Perez,Juan,1
+1723640172,Perez,Martin,2
+1723640172,Perez,Pablo,3
+1723640172,Perez,Marcelo,4
+1723640172,Perez,Joaquin,5
+1723640172,Perez,Hector,6
+1723640172,Perez,Gabriel,7
+1723640172,Perez,Miguel,8
+1723640172,Perez,Carlos,9
+1723640172,Perez,Fernando,10
