@@ -1,7 +1,6 @@
 package ec.edu.espe.arquitectura.batch.model;
 
 import lombok.Data;
-import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.TypeAlias;
 import org.springframework.data.mongodb.core.mapping.Document;
 
@@ -9,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "estudiante")
 @TypeAlias("estudiante")
 public class Estudiante {
-  @Id private String id;
+  // @Id private String id;
 
   private String nombres;
 
